@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/richardl/citisignal-aem/language-masters/en:/",
+    "/content/richardl/citisignal-aem/language-masters/en/:/en/",
+    "/content/richardl/citisignal-aem/configuration:/.helix/config.json",
+    "/content/richardl/citisignal-aem/metadata:/metadata.json",
+    "/content/richardl/citisignal-aem/redirects:/redirects.json",
+    "/content/richardl/citisignal-aem/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/richardl/citisignal-aem/",
+    "/content/dam/richardl/citisignal-aem/"
   ]
 }
